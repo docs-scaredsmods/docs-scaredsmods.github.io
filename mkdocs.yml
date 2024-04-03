@@ -1,7 +1,0 @@
-site_name: ScaredsMods Documentation
-
-nav:
-- Home: 'index.md'
-- Mods: 'mods/index.md'
-- Plugins: 'plugins/index.md'
-- Main Site: 'https://scaredsmods.github.io'
